@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1583265942 source:g:\program language\labs sem 2\var0\main.cpp
+	<iostream>
+	"Window.h"
+	<string>
+	<stdlib.h>
+
+1583266008 source:g:\program language\labs sem 2\var0\window.cpp
+	<iostream>
+	"Window.h"
+	<string>
+	<cstring>
+
+1583264840 g:\program language\labs sem 2\var0\window.h
+	<string>
+
